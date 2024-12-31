@@ -1,5 +1,7 @@
 # HR-Resources
 
+# See how employes work with Chats.
+
 # Stencil
 週末にそんなに一生懸命働くのはやめてください。少し休んでリラックスする時間を持ちましょう。
 
