@@ -1,0 +1,3 @@
+# Rubber Ducky
+
+## Rubber Ducky typing...
